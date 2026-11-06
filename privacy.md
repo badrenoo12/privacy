@@ -2,7 +2,7 @@
 
 **Last updated:** October 31, 2026
 
-This privacy policy applies to the mobile game **IGLIYANE BADR ** (hereinafter "IGNeogeo"), developed and published by **IGLIYANE BADR**.
+This privacy policy applies to the mobile game **IGLIYANE BADR ** (hereinafter "Bocagekids"), developed and published by **IGLIYANE BADR**.
 
 ## 1. Data Collection
 
@@ -25,7 +25,7 @@ The App does not use any third-party services, advertising SDKs, analytics tools
 
 ## 4. Children's Privacy
 
-The App **is not intended for children under 13 years of age**. We do not knowingly collect any personal data from children under 13. Since the App does not collect any data, it also does not collect data from children.
+The App **is not intended for children under 4 years of age**. We do not knowingly collect any personal data from children under 4. Since the App does not collect any data, it also does not collect data from children.
 
 ## 5. Your Rights
 
