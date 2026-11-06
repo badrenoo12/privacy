@@ -1,46 +1,107 @@
-# Privacy Policy
+# Politique de confidentialité — Bocage Kids
 
-**Last updated:** October 31, 2026
+Dernière mise à jour : 6 novembre 2026
 
-This privacy policy applies to the mobile game **IGLIYANE BADR ** (hereinafter "Bocagekids"), developed and published by **IGLIYANE BADR**.
+Bocage Kids est une application éducative pour enfants éditée par **IGLIYANE BADR**.
+Contact : **bigliyane@gmail.com**
 
-## 1. Data Collection
+## En bref
 
-**The App does not collect, store, transmit, or share any personal data or user data.**
+- Aucune donnée personnelle n'est collectée.
+- Aucun compte, aucune inscription, aucun identifiant.
+- Aucune publicité, aucun outil d'analyse, aucun traceur.
+- Aucune donnée n'est transmise à l'éditeur ni à des tiers.
+- La progression reste sur l'appareil.
 
-Specifically:
-- No user account is required to play.
-- No personal information (name, email address, phone number, address, etc.) is requested or collected.
-- No usage data, statistics, device identifiers, or location information is recorded.
-- The App contains no analytics tools, no advertising SDKs, and no third-party services that could collect data.
-- All game data (progress, scores, settings) remains **only on your device** and is never transmitted to a server.
+## Données traitées sur l'appareil
 
-## 2. Use of Data
+**Préférences et progression.** La langue choisie, le niveau (CP, CE1, CE2), les étoiles et les activités terminées sont enregistrés dans l'espace privé de l'application, sur l'appareil. Ces informations ne sont ni lues ni reçues par l'éditeur. Elles sont supprimées lorsque l'application est désinstallée.
 
-Since no data is collected, no data is used, processed, or shared by the developer.
+**Appareil photo (facultatif).** La caméra est utilisée uniquement lorsque l'enfant choisit l'option de scan dans l'activité Écriture. Les images sont traitées en mémoire sur l'appareil pour reconnaître la lettre dessinée, puis abandonnées. Elles ne sont ni enregistrées, ni transmises, ni partagées. L'autorisation peut être refusée : le tracé à l'écran reste disponible.
 
-## 3. Third-Party Services
+**Audio.** L'application utilise la synthèse vocale du système pour prononcer les mots. Elle n'accède pas au microphone et n'enregistre aucun son.
 
-The App does not use any third-party services, advertising SDKs, analytics tools, or social networks that would collect data.
+## Autorisations
 
-## 4. Children's Privacy
+- `CAMERA` : uniquement pour la fonction facultative de scan d'un dessin.
+- L'application ne demande aucune autre autorisation sensible : ni Internet, ni localisation, ni microphone, ni contacts, ni stockage externe.
 
-The App **is not intended for children under 4 years of age**. We do not knowingly collect any personal data from children under 4. Since the App does not collect any data, it also does not collect data from children.
+## Enfants
 
-## 5. Your Rights
+Bocage Kids est destinée aux enfants. L'application ne collecte aucune donnée personnelle, n'affiche aucune publicité, ne propose aucun achat et ne contient aucun lien vers des services externes. Elle est conçue pour respecter les principes du RGPD applicables aux enfants et du COPPA américain, en l'absence de toute collecte de données.
 
-Because the App does not collect any personal data, there is no data to access, modify, or delete. If you nevertheless have any questions about your data, you may contact us at the address below.
+## Partage et services tiers
 
-## 6. Security
+Aucune donnée n'est partagée. L'application n'intègre aucun kit publicitaire, analytique, de suivi ou de réseau social.
 
-Since no data is collected or transmitted, there is no risk related to the storage or transmission of personal data by the App.
+## Conservation et suppression
 
-## 7. Changes to This Policy
+L'éditeur ne conserve aucune donnée. Les données locales sont supprimées à la désinstallation de l'application. Comme aucune donnée n'est collectée côté éditeur, il n'existe pas de données à consulter ou à supprimer à distance.
 
-We may update this privacy policy if the App evolves (for example, if a future version were to collect data). Any changes will be posted on this page with a new update date. We encourage you to review this page periodically.
+## Vos droits
 
-## 8. Contact Us
+Aucune donnée personnelle n'étant collectée, les droits d'accès, de rectification, d'effacement, de limitation et d'opposition prévus par le RGPD ne s'appliquent à aucune donnée détenue par l'éditeur. Pour toute question, écrivez à **bigliyane@gmail.com**.
 
-If you have any questions about this privacy policy, you can contact us at:
+## Modifications
 
-**Email:** bigliyane@gmail.com
+Cette politique peut être mise à jour. La date de dernière mise à jour figure en tête de page. En cas de changement important, la nouvelle version sera publiée à la même adresse.
+
+## Contact
+
+**IGLIYANE BADR**
+**bigliyane@gmail.com**
+
+---
+
+# Privacy Policy — Bocage Kids
+
+Last updated: 6 November 2026
+
+Bocage Kids is an educational app for children published by **IGLIYANE BADR**.
+Contact: **bigliyane@gmail.com**
+
+## Summary
+
+- No personal data is collected.
+- No account, sign-up or identifier.
+- No ads, analytics or trackers.
+- No data is sent to the developer or to third parties.
+- Progress stays on the device.
+
+## Data processed on the device
+
+**Preferences and progress.** The selected language, level (CP, CE1, CE2), stars and completed activities are stored in the app's private storage on the device. This information is not read or received by the developer. It is deleted when the app is uninstalled.
+
+**Camera (optional).** The camera is used only when the child chooses the scan option in the Writing activity. Images are processed in memory on the device to recognise the drawn letter and are then discarded. They are not stored, sent or shared. Permission can be denied; on-screen tracing remains available.
+
+**Audio.** The app uses the system text-to-speech engine to pronounce words. It does not access the microphone and does not record any sound.
+
+## Permissions
+
+- `CAMERA`: only for the optional drawing scan.
+- The app requests no other sensitive permission: no Internet, location, microphone, contacts or external storage.
+
+## Children
+
+Bocage Kids is intended for children. The app collects no personal data, shows no ads, offers no purchases and contains no links to external services. It is designed to respect GDPR principles for children and the US COPPA, as no data is collected.
+
+## Sharing and third parties
+
+No data is shared. The app includes no advertising, analytics, tracking or social SDK.
+
+## Retention and deletion
+
+The developer retains no data. Local data is deleted when the app is uninstalled. As no data is collected by the developer, there is no remote data to access or delete.
+
+## Your rights
+
+As no personal data is collected, GDPR rights of access, rectification, erasure, restriction and objection do not apply to any data held by the developer. For any question, contact **bigliyane@gmail.com**.
+
+## Changes
+
+This policy may be updated. The last-updated date appears at the top of the page. Any significant change will be published at the same address.
+
+## Contact
+
+**IGLIYANE BADR**
+**bigliyane@gmail.com**
